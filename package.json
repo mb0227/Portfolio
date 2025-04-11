@@ -54,6 +54,8 @@
     ]
   },
   "devDependencies": {
-    "@types/react-vertical-timeline-component": "^3.3.6"
+    "@csstools/normalize.css": "^12.1.1",
+    "@types/react-vertical-timeline-component": "^3.3.6",
+    "sanitize.css": "^13.0.0"
   }
 }
