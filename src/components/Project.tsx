@@ -24,7 +24,7 @@ function Project() {
             <div className="project">
                 <a href="https://github.com/mb0227/Collision-Detection-Project" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/mb0227/Collision-Detection-Project" target="_blank" rel="noreferrer"><h2>Collision Detection and Response</h2></a>
-                <p>Developed a collision detection and response system with C++ and OpenGL (freeglut). This project </p>
+                <p>Developed a collision detection and response system with C++ and OpenGL (freeglut). </p>
             </div>
             <div className="project">
                 <a href="https://github.com/mb0227/Restaurant-Management-System" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>

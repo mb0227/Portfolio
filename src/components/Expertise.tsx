@@ -30,7 +30,13 @@ const labelsSecond = [
     "GitLab",
     "Linux",
     "Pandas",
-    "Selenium"
+    "Selenium",
+    ".NET",
+    "OpenGL",
+    "Window Forms",
+    "PyQt5",
+    "REST API",
+    "WPF"
 ];
 
 function Expertise() {
